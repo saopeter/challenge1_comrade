@@ -1,0 +1,13 @@
+[deps]
+Comrade = "99d987ce-9a1e-4df8-bc0b-1ea019aa547b"
+ComradeAHMC = "a4336a5c-78bc-4363-8a90-ce3fa9d3abe4"
+ComradeOptimization = "26988f03-70df-4135-959e-06268cc6415a"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+DistributionsAD = "ced4e74d-a319-5a8a-b0ac-84af2272839c"
+Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
+OptimizationBBO = "3e6eede4-6085-4f62-9a71-46d9bc1eb92b"
+OptimizationOptimJL = "36348300-93cb-4f02-beb5-3c3902f8871e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+RadioImagePriors = "b1ba175b-8447-452c-b961-7db2d6f7a029"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
